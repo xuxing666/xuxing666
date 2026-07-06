@@ -1691,7 +1691,7 @@ select {
         <div class="avatar">
           <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=ZhangWei&backgroundColor=b6e3f4" alt="张伟">
         </div>
-        <div class="user-name">张伟</div>
+        <div class="user-name">张伟大</div>
         <div class="sidebar-menu">
           <a href="#" class="sidebar-item">
             <span>待办</span>
